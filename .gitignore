@@ -1,2 +1,5 @@
 *.mp4
 *.DS_STORE
+__pycache__/
+backup/
+cropped_videos_annotations/
